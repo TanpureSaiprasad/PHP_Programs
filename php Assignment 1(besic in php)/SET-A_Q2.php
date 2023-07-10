@@ -1,5 +1,5 @@
 <?php
-//Write a PHP Script to swap the values of two variables.
+//Q.Write a PHP Script to swap the values of two variables.
    $a=12;
    $b=77;
         echo("before swap:<br> a=$a  and  b=$b");
