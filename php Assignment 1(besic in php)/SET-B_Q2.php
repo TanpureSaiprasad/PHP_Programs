@@ -15,7 +15,7 @@
 </html>
 
 <?php
-//Write a PHP Script to calculate the area of Circle, Square, and Rectangle
+//Q.Write a PHP Script to calculate the area of Circle, Square, and Rectangle
      $r=$_POST["t1"]; 
      $l=$_POST["t2"];
      $b=$_POST["t3"];
