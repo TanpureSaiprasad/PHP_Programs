@@ -1,5 +1,5 @@
 <?php
-//Write a PHP Script to display the surface area and volume of a cuboid.(Hint: surface area=2(lb+lh+bh ), volume = l*b*h )
+//Q.Write a PHP Script to display the surface area and volume of a cuboid.(Hint: surface area=2(lb+lh+bh ), volume = l*b*h )
     $l=12;
     $b=3;
     $h=15;
