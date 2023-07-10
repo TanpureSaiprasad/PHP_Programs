@@ -18,7 +18,7 @@
 </html>
 
 <?php
-/*Write a PHP Script to display the total and percentage of Marks of Subjects (Out of 100) 
+/*Q.Write a PHP Script to display the total and percentage of Marks of Subjects (Out of 100) 
 Data Structure, Digital Marketing, PHP, SE, and Bigdata.*/
 
          $ds=$_POST["t1"];
